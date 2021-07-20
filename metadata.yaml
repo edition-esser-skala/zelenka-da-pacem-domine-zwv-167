@@ -1,0 +1,17 @@
+composer: Zelenka, Jan Dismas
+title: Litaniae lauretanae “Consolatrix afflictorum”
+id: ZWV 151
+genre: litany
+scoring: S, A, T, B (solo), S, A, T, B (coro), 2 ob, 2 vl, vla, b, org
+sources:
+  1:
+    siglum: D-Dl
+    shelfmark: Mus.2358-E-42
+    type: autograph manuscript
+    date: 1740
+    rism: 212006670
+    url: http://digital.slub-dresden.de/id426605586
+github: zelenka-da-pacem-domine-zwv-167
+imslp: Da_pacem_Domine,_ZWV_167_(Zelenka,_Jan_Dismas)
+notes:
+
